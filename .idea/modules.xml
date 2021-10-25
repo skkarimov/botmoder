@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/k1ngadminbot.iml" filepath="$PROJECT_DIR$/.idea/k1ngadminbot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/botmoder.iml" filepath="$PROJECT_DIR$/.idea/botmoder.iml" />
     </modules>
   </component>
 </project>
